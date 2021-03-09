@@ -14,7 +14,7 @@
             - Pedido/Encomenda com itens múltiplos:
             > Esse tipo de pedido é representando por duas ou mais linhas, sendo a primeira linha que possui o número da encomenda e CPF do cliente.
             > A segunda ou mais linhas são os itens comprados que possuem o número do pedido, porém não possui o CPF e não possui o número da encomenda
-        - O novo relatório deve conter todos os itens comprados separados por linhas e com as informações das 6 colunas informadas acima.
+        - O novo relatório deve conter todos os itens vendidos separados por linhas e com as informações das 6 colunas informadas acima.
 
 ## Tecnologias Utilizadas
 Foi utilizado a linguagem Python 3.8.5. Seguintes bibliotecas foram utilizadas:
